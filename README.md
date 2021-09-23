@@ -6,5 +6,7 @@ This project is just a normal todo list 🧾, you can input todo item (data), th
 
 ### SAWO API Integration
 
+Secure Authentication Without OTP or SAWO is the next thing in authentication 🦊
+
 The Complete Integration and Documentation of the Awesome API can be found in [SAWO Official Documentation](https://docs.sawolabs.com/sawo/getting-started) page.
 
